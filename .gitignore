@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+tempCodeRunnerFile.py
+
+# Virtual environments
+venv/
+venv312/
+v2/
+.venv/
+drowsy-env/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
